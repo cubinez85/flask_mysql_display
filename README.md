@@ -1,1 +1,2 @@
-# flask_mysql_display
+# установить модуль :
+pip install mysql-connector-python
